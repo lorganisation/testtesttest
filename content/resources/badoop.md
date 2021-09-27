@@ -1,13 +1,14 @@
 ---
-course_feature_tags: []
 description: ''
 file: /media/courses/test2/44d75f6df6da443983be3bd7fca72f53_20210813_164750.jpg
 file_type: image/jpeg
-filetype: Image
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+resourcetype: Image
 title: BADOOP
 type: resource
 uid: 44d75f6d-f6da-4439-83be-3bd7fca72f53
