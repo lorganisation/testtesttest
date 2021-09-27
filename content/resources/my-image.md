@@ -1,12 +1,14 @@
 ---
-course_feature_tags: []
 description: ''
 file: null
-filetype: Image
+file_type: ''
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+resourcetype: Image
 title: my image
 type: resource
 uid: dfd45114-0411-4628-9e89-b00eab356054
